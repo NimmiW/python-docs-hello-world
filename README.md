@@ -16,10 +16,10 @@ Then run,
 
 # Contributing
 
-Erandi: backtesting module
-Dilmi: optimzation module
-Sanka: predictions modules
-Nimmi: anomalies module
+- Erandi: backtesting module
+- Dilmi: optimzation module
+- Sanka: predictions modules
+- Nimmi: anomalies module
 
 # Folder Structure
 The main folder structure is as follows.
