@@ -24,6 +24,7 @@ Nimmi: anomalies module
 # Folder Structure
 The main folder structure is as follows.
 
+```
 python-docs-hello-world/
     /yourapp
         /main.py
@@ -42,7 +43,7 @@ python-docs-hello-world/
              /predictions
              /optimization
         /requirements.txt
-
+```
 
 Module functions should be wriiten on individual module folders in the root directory.
 
